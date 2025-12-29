@@ -1,0 +1,17 @@
+{
+  "name": "algorithm-portfolio-sorting",
+  "version": "1.0.0",
+  "description": "Implementation af Insertion Sort",
+  "main": "insertionSort.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.0.0",
+    "chai": "^4.3.0"
+  }
+}
