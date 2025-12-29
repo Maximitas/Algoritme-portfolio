@@ -1,0 +1,12 @@
+{
+  "name": "mergesort-projekt",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": "^10.0.0",
+    "chai": "^4.3.0"
+  }
+}
