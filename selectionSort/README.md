@@ -1,4 +1,4 @@
-Selection sort har jeg valgt
+Selection sort har jeg valgt:
 
 Det er at man har to array, den givne array der sskal sorters og den array der er færdig sorteret.
 
@@ -9,8 +9,7 @@ det tal bliver så at ind på det sorteret array og man kører så videre
 https://en.wikipedia.org/wiki/Selection_sort
 
 
-Pseudokode.
-
+Pseudokode:
 
 Man tager det første tal i rækken og sammeligner det så med tallet til højre.
 
@@ -22,6 +21,7 @@ Når hele arrayt er kigget igennem gemmer man det tal på den første plads i si
 
 
 
+BigO:
 
 BigO er O(n^2)
 
